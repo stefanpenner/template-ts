@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "lib": ["es6"],
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "strict": true,
+    "noEmit": true,
+    "baseUrl": ".",
+    "target": "es2018",
+    "types": [],
+    "paths": { "template-ts": ["."] }
+  }
+}
