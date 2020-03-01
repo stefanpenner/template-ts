@@ -1,17 +1,17 @@
 {
   "compilerOptions": {
-    "declaration": true,
-    "strict": true,
-    "moduleResolution": "node",
-    "module": "commonjs",
-    "sourceMap": true,
-    "target": "es2018",
-    "types": ["node"],
-    "lib": ["ES2018"],
     "baseUrl": ".",
+    "declaration": true,
+    "lib": ["ES2018"],
+    "module": "commonjs",
+    "moduleResolution": "node",
     "paths": {
       "*": ["types/*"]
-    }
+    },
+    "sourceMap": true,
+    "strict": true,
+    "target": "es2018",
+    "types": ["node"]
   },
   "include": ["index.ts"]
 }
