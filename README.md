@@ -34,5 +34,5 @@ npm install --save project
 ## Usage
 
 ```js
-const project = require('project');
+const templateTs = require('template-ts');
 ```
