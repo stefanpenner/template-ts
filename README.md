@@ -1,7 +1,7 @@
 # template-ts
 ![CI](https://github.com/stefanpenner/template-ts/workflows/CI/badge.svg)
 
-A simple starting point for authoring TypeScript librarys.
+A simple starting point for authoring TypeScript librarys with the goal of staying simple.
 
 * Compilation via TypeScript with what I find to be productive TypeScript defaults
 * Testing via Mocha + Chai with source-map support
